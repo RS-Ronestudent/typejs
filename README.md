@@ -1,0 +1,2 @@
+# typejs
+javascript typejs project
